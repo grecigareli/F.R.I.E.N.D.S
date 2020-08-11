@@ -2,4 +2,4 @@
 
 # Friends was a popular sitcome that was freakin' amazing
 
-![The cast] (photos/friends.jpg "Nice")
+![Image of the cast] (photos/friends.jpg "Nice")
