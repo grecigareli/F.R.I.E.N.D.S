@@ -1,14 +1,14 @@
 # F.R.I.E.N.D.S
- Friends was a popular sitcome that was freakin' amazing
-### The woman cast was:
+ Friends was a popular sitcome 
+### The women cast was:
 * Rachel    
 * Mónica
 
-## The man cast was:
+## The men cast was:
 
 | Name   | Character |
 |:------:|:---------:|
-|Chandler| James     |
+|Chandler|           |
 
 
 ![Image of the cast](photos/friends.jpg "Nice")
@@ -17,8 +17,7 @@
 
 I
 am
-the 
-creator
+
 
 
 The one
